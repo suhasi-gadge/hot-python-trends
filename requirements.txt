@@ -1,0 +1,23 @@
+# Data wrangling & storage
+pandas>=1.5.0
+polars>=0.18.0
+
+# Kaggle data download
+kaggle>=1.5.12
+
+# Jupyter for notebooks
+jupyterlab>=3.6.0
+
+# EDA & visualization
+plotly>=5.15.0
+
+# Web dashboard (choose one or both)
+dash>=2.9.0
+
+# Full-stack backend
+flask>=2.3.0
+fastapi>=0.95.0
+uvicorn[standard]>=0.22.0
+
+# Environment & config
+python-dotenv>=1.0.0
